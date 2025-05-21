@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.parquet
+*.db
+*.sqlite
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Data folders
+student_alchohol_comsumption/data/
+datasets/
+*.zip
+*.csv
+*.xlsx
